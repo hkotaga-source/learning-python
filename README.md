@@ -12,3 +12,8 @@ Next install the library you need for this program to run , which is "pandas".
 To install it , type "pip install pandas".
 Now open a text editor , such as vs-code or even your built in text editor.I am using nano directly in the terminal.
 To create a file using nano ,type "nano pythonfile .py'.
+Refer the code in "code" file , then save it using "ctrl+o" and "ctrl+x" to exit the nano editor .
+Now execute using the command , "python pythonfile.py".
+Refer the output , in the "output" file .
+You will see the output in a table like form , consisitng of all parameters .
+This is due to the line "df = DataFrame(data)", this takes the values inside the variable "data" , and "DataFrame" is a blueprint for two dimensional tabular structure .
