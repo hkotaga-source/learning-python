@@ -1,7 +1,7 @@
 # learning-python
 A small python script using pandas 
 
-This code uses "pandas" after its installed using the "pip" command .
+This code uses "pandas" (a python library)  after its installed using the "pip" command .
 Instead of directly installing the libraries into the OS space which can cause dependency issues , its safer and preferred to create a virtual environment first.
 So using built in tool like "venv" is preferred for light weight environments.
 In linux and mac OS  and also windows(though the commands are different from linux and macos) , you can create a virtual , isolated environemt using the command "python version -m venv ."a name of your wish".
