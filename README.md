@@ -11,7 +11,7 @@ Now you are in an isolated , safe , virtual environment .
 Next install the library you need for this program to run , which is "pandas".
 To install it , type "pip install pandas".
 Now open a text editor , such as vs-code or even your built in text editor.I am using nano directly in the terminal.
-To create a file using nano ,type "nano pythonfile .py'.
+To create a file using nano ,type "nano pythonfile.py'.
 Refer the code in "code" file , then save it using "ctrl+o" and "ctrl+x" to exit the nano editor .
 Now execute using the command , "python pythonfile.py".
 Refer the output , in the "output" file .
